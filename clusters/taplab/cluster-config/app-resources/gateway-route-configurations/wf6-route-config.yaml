@@ -12,4 +12,4 @@ spec:
       - Method=GET
     filters:
       - StripPrefix=1
-      - PrefixPath=/wf6
+      - PrefixPath=/
